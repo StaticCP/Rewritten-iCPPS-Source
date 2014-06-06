@@ -1,1 +1,22 @@
 A PHP AS2 CPPS Source. It is just rewritten from the basic iCPPS source.
+MAKE SURE YOU HAVE:
+1) Make sure you have PHP 5.5.X
+2) For beautiful colors, download this: http://www.mediafire.com/download/jdd95ln093cuh1c/ansicon.zip and extract it in "C:/"
+
+To Configure the Source Stuff:
+1) Go to Configuration/Config.php 
+2) Edit Whatever need's to be edited
+
+To Configure the MySQL stuff:
+1) Go to Configuration/MySQL.php
+2) Edit that too :)
+
+Edit Bot Stuff
+1) Go to Bot/Bot.php
+2) Edit that also, damn
+
+Change Login Server Port(DEFAULT 6112) IF NEEDED
+1) Go to Server/loginServer.php
+2) Find "config["PORT"]" and edit that
+
+For more questions, ask Mr.Peabody/TimmyCP on Rile5. 
